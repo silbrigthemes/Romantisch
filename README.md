@@ -1,6 +1,8 @@
 # Romantisch
 Romantisch (Theme #14) – Tumblr Theme for Valentine's Day
 
+<img src="https://66.media.tumblr.com/a820dd777917a9deeddcb6ffb27a49fa/tumblr_pmasx88usz1wsskx3o5_r1_1280.png" alt="image showing the theme on different devices"/>
+
 <h2>Contents</h2>
 <ul>
   <li><a href="#about" title="about this theme">About</a></li>
