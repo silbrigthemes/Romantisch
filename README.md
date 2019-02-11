@@ -34,7 +34,7 @@ Romantisch (Theme #14) – Tumblr Theme for Valentine's Day
 <h2>About</h2>
 <p>Romantisch is silbrigthemes&rsquo; 14th theme. This theme is made for Valentine&rsquo;s Day and aims to bring love to your blog.</p>
 <h3>Links</h3>
-<p><a href="https://romantischtheme.tumblr.com/" title="live preview">Live Preview</a> | <a href=" " title="blog post">Blog Post</a></p>
+<p><a href="https://romantischtheme.tumblr.com/" title="live preview">Live Preview</a> | <a href="https://silbrigthemes.tumblr.com/post/182744321380/romantisch-theme-14-by-silbrigthemes-about-a" title="blog post">Blog Post</a></p>
 
 <h2>Features</h2>
 <h3>Layout</h3>
