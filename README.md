@@ -66,3 +66,12 @@ Romantisch (Theme #14) – Tumblr Theme for Valentine's Day
 <p>The toggle &ldquo;<strong>Show Captions</strong>&rdquo; lets you hide (<em>gray</em>) or show (<em>blue</em>) captions on the index page. Captions that are hidden on the index page will be visible on the post&rsquo;s permalink page.</p>
 <h4>Tags</h4>
 <p>The toggle &ldquo;<strong>Show Tags</strong>&rdquo; lets you hide (<em>gray</em>) or show (<em>blue</em>) tags on the index page. Tags that are hidden on the index page will be visible on the post&rsquo;s permalink page.&nbsp;</p>
+<h2>Resources</h2>
+<p><a href="https://egg.design/post/165624057287/quick-tutorial" title="tutorial by espoirthemes" target="_blank">Tutorial: Adding &ldquo;deactivated&rdquo; to the username of an inactive user</a>, by espoirthemes.</p>
+<p><a href="https://honeybee.suiomi.com/" title="Honeybee icon font by suiomi" target="_blank">Icon font &ldquo;honeybee&rdquo;</a>, by suiomi.</p>
+<p><a href="http://acuite.tumblr.com/post/53152126640/tutorial-tooltips" title="Custom tooltips script, by acuite." target="_blank">Custom tooltips script</a>, by acuite.</p>
+<p><a href="https://roxiestheme.tumblr.com/post/158812662057/tutorial-change-the-color-of-tumblrs-new-audio" title="Custom audio background, by roxiestheme." target="_blank">Custom audio background script</a>, by roxiestheme.</p>
+<p><a href="#mce_temp_url#">Hidden tumblr app button</a>, by yeoli-thm.</p>
+<p><a href="https://roxiestheme.tumblr.com/post/158883843542/tutorial-display-certain-item-on-your-home-page" title="Index page tutorial, by roxiestheme." target="_blank">Tutorial: Making headers visible on the first page only</a>, by roxiestheme.</p>
+<p><a href="https://github.com/Spacetchi/tumblr-flexible-photoset/blob/master/README.md" title="Flexible photosets by 5ppi." target="_blank">Flexible photosets</a>, by 5ppi.</p>
+<p><a href="http://shythemes.tumblr.com/post/110957903628/tutorial-customizing-the-lightbox" title="Custom lightbox tutorial, by shythemes." target="_blank">Custom lightbox tutorial</a>, by shythemes.</p>
